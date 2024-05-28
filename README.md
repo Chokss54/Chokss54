@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chokss54
+- 👋 Hi, I’m Joel
 - 👀 I’m interested in App/web/software development
-- 💞️ I’m looking to collaborate on any interesting simple software projects
+- 💞️ Do hit me up if you wish to collaborate!
 - 📫 How to reach me - joelyang54@gmail.com
