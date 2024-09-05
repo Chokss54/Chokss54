@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joel
-- 👀 I’m interested in App/web/software development
-- 💞️ Do hit me up if you wish to collaborate!
+- 👋 Hi, I’m Joel!
+- 👀 I’m interested in App/web/software development!
+- 💞️ Wish to collaborate with you on exciting projects!
 - 📫 How to reach me - joelyang54@gmail.com
